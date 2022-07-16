@@ -1,2 +1,2 @@
 # material-ui-template
-Build using material ui
+Build a dedicted material ui template with ReactJS
