@@ -12,3 +12,6 @@ https://mui.com/material-ui/react-stack/
 * Image-list
 https://mui.com/material-ui/react-image-list/
 
+* Getting started: install Material UI
+https://mui.com/material-ui/getting-started/installation/
+
