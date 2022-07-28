@@ -1,6 +1,5 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
-import FunWithGrid from "./funWithGrid";
 import { Typography, Button } from "@mui/material";
 
 function Main() {
@@ -14,7 +13,7 @@ function Main() {
         variant="contained"
         color="success"
         onClick={() => {
-          navigate(<FunWithGrid />);
+          navigate("/funWithGrid");
         }}
       >
         Grid
