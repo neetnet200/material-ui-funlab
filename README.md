@@ -1,4 +1,4 @@
-# material-ui-lab 
+# material-ui-funlab 
 
 Having fun with Material UI 🍧🍨💛
 
