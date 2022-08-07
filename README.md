@@ -1,4 +1,4 @@
-# material-ui-lab
+# material-ui-funlab 
 
 Having fun with Material UI 🍧🍨💛
 
@@ -14,6 +14,12 @@ https://www.youtube.com/watch?v=BHEPVdfBAqE&list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL
 
 * Tutorials by The Clever Dev:
 https://www.youtube.com/channel/UCb6AZy0_D1y661PMZck3jOw/videos
+
+* Tutorial by Lama Dev:
+https://www.youtube.com/watch?v=fzxEECHnsvU
+
+* Tutorial by Laith Academy:
+https://www.youtube.com/watch?v=o1chMISeTC0
 
 * Material UI Documentation
 https://mui.com/material-ui/
