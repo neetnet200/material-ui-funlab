@@ -6,12 +6,12 @@ function Main() {
   let navigate = useNavigate();
   return (
     <>
-      <Grid container spacing={5}
+      <Grid
+        container
+        spacing={10}
         sx={{
           mt: 10,
           display: "flex",
-          flexDirection: "column",
-          alignItems: "center",
           justifyContent: "center",
           p: 10,
         }}
@@ -20,16 +20,27 @@ function Main() {
           sx={{
             display: "flex",
             alignItems: "center",
+            flexDirection: "column",
           }}
         >
           <Grid item xs={12}>
-            <Box>
-              <Typography variant="h3">MATERIAL UI FUNLAB</Typography>
+            <Box
+              xs={12}
+              sx={{
+                display: "flex",
+                alignItems: "center",
+                flexDirection: "column",
+              }}
+            >
+              <Typography variant="h3" style={{textAlign: "center"}}>MATERIAL UI FUNLAB</Typography>
+              <p style={{textAlign: "center"}}>Experimenting with Material UI</p>
             </Box>
-            <p>Experimenting with Material UI</p>
           </Grid>
           <Grid item xs={12}>
-            <Box>
+            <Box xs={12}
+             sx={{
+             mt: 10
+            }}>
               <Button
                 variant="contained"
                 color="success"
