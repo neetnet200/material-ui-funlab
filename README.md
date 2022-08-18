@@ -2,7 +2,7 @@
 
 Having fun with Material UI 🍧🍨💛
 
-* From the beginning: install React JS
+* Install React JS
 https://reactjs.org/docs/getting-started.html
 https://github.com/facebook/create-react-app
 
