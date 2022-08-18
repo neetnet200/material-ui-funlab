@@ -88,6 +88,48 @@ function FunWithGrid() {
           }}
         ></Box>
       </Grid>
+      <Grid item xs={4} lg={2} sx={{}}>
+        <Box
+          sx={{
+            m: 5,
+            height: 200,
+            width: 200,
+            borderRadius: 50,
+            backgroundColor: "#aef359",
+            "&:hover": {
+              backgroundColor: "#eeed09",
+            },
+          }}
+        ></Box>
+      </Grid>
+      <Grid item xs={4} lg={2} sx={{}}>
+        <Box
+          sx={{
+            m: 5,
+            height: 200,
+            width: 200,
+            borderRadius: 50,
+            backgroundColor: "#aa80ff",
+            "&:hover": {
+              backgroundColor: "#99edc3",
+            },
+          }}
+        ></Box>
+      </Grid>
+      <Grid item xs={4} lg={2} sx={{}}>
+        <Box
+          sx={{
+            m: 5,
+            height: 200,
+            width: 200,
+            borderRadius: 50,
+            backgroundColor: "#ffa06b",
+            "&:hover": {
+              backgroundColor: "#7ec798",
+            },
+          }}
+        ></Box>
+      </Grid>
     </Grid>
   );
 }
