@@ -32,7 +32,7 @@ function Main() {
                 flexDirection: "column",
               }}
             >
-              <Typography variant="h3" style={{ textAlign: "center" }}>
+              <Typography variant="h4" style={{ textAlign: "center" }}>
                 MATERIAL UI FUNLAB
               </Typography>
               <p style={{ textAlign: "center" }}>
