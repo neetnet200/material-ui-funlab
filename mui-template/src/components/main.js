@@ -32,18 +32,24 @@ function Main() {
                 flexDirection: "column",
               }}
             >
-              <Typography variant="h3" style={{textAlign: "center"}}>MATERIAL UI FUNLAB</Typography>
-              <p style={{textAlign: "center"}}>Experimenting with Material UI</p>
+              <Typography variant="h3" style={{ textAlign: "center" }}>
+                MATERIAL UI FUNLAB
+              </Typography>
+              <p style={{ textAlign: "center" }}>
+                Experimenting with Material UI
+              </p>
             </Box>
           </Grid>
           <Grid item xs={12}>
-            <Box xs={12}
-             sx={{
-             mt: 10
-            }}>
+            <Box
+              xs={12}
+              sx={{
+                mt: 10,
+              }}
+            >
               <Button
                 variant="contained"
-                color="success"
+                color="primary"
                 onClick={() => {
                   navigate("/funWithGrid");
                 }}

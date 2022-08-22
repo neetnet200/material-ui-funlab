@@ -68,9 +68,8 @@ function Footer() {
         >
           <Typography variant="caption" style={{textAlign: "center"}} color="#75b3aa">
             {" "}
-            neetnet.io operates on the unceded land of the Wurundjeri peoples of
-            the Kulin nation, we pay our respects to elders past present &
-            emerging @ 2022 neetnet.io All rights reserved
+            neetnet.io respectfully acknowledges the Wurundjeri peoples of
+            the Kulin nation, who have lived their culture on this land for more than 1000 generations @ 2022 neetnet.io All rights reserved
           </Typography>
         </Box>
       </Grid>
