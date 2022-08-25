@@ -20,16 +20,16 @@ function Navbar() {
               Home
             </Link>
           </li>
-          {/* <li className="nav-items">
-            <Link to="/about" onClick={closeMenu}>
-              About
+          <li className="nav-items">
+            <Link to="/funWithGrid" onClick={closeMenu}>
+              Grid
             </Link>
           </li>
           <li className="nav-items">
-            <Link to="/showcase" onClick={closeMenu}>
-              Examples
+            <Link to="/funWithGrid" onClick={closeMenu}>
+              Grid
             </Link>
-          </li> */}
+          </li>
         </ul>
       </div>
   )

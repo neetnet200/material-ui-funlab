@@ -21,6 +21,9 @@ const theme = createTheme({
     success: {
       main: "#ff784e",
     },
+    warning: {
+      main: "#ffc400",
+    },
   },
   typography: {
     h4: {
